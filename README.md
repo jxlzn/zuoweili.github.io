@@ -1,19 +1,7 @@
-# David Li · Portfolio
+# zuoweili.github.io
 
-Personal portfolio site for [David Li (Zuowei Li)](https://github.com/jxlzn).
+This project Pages site now redirects to the portfolio root:
 
-Live: https://jxlzn.github.io/zuoweili.github.io/
+**https://jxlzn.github.io/**
 
-## Contents
-
-- Home page with selected work
-- Case study: newsroom chart automation
-- Links to public GitHub / Vercel projects
-
-## Local preview
-
-Open `index.html` in a browser, or serve the folder:
-
-```bash
-python3 -m http.server 8080
-```
+Source of truth: [`jxlzn/jxlzn.github.io`](https://github.com/jxlzn/jxlzn.github.io)
